@@ -18,11 +18,9 @@ just a prompt.
 
 | Project | What it shows |
 |---|---|
+| [**llm-doc-extractor**](https://github.com/phelipehass/llm-doc-extractor) | Python · FastAPI · validated structured data from contract PDFs · self-correcting retries · cost tracking · evaluated against lawyer-labeled contracts (CUAD) |
 | [**microapis**](https://github.com/phelipehass/microapis) | Go · turns any web page into clean, LLM-ready Markdown · two-layer SSRF defense (incl. DNS rebinding) · offline tests, CI |
 
-<!-- Add to the table when published:
-| [**llm-doc-extractor**](https://github.com/phelipehass/llm-doc-extractor) | Python · FastAPI · validated structured data from contract PDFs · self-correcting retries · cost tracking · accuracy evaluation |
--->
 
 ### How I can help
 
